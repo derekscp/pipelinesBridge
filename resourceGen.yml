@@ -1,5 +1,5 @@
 resources:
-  - name: PropBagTest
+  - name: PropBagTest2
     type: PropertyBag
     configuration:
       name: 'notset'
